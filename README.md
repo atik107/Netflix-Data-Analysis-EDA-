@@ -7,7 +7,7 @@ This project explores the Netflix dataset using data analysis and visualization 
 ## 📁 Dataset Source
 
 - **Dataset Name**: Netflix Titles
-- **Source**: [Kaggle Netflix Dataset](https://www.kaggle.com/shivamb/netflix-shows) *(or your uploaded version)*
+- **Source**: [Kaggle Netflix Dataset](https://www.kaggle.com/shivamb/netflix-shows) 
 - **Fields**: `title`, `type`, `director`, `cast`, `country`, `date_added`, `release_year`, `rating`, `duration`, `listed_in`, `description`
 
 ---
