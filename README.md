@@ -55,7 +55,7 @@ This project explores the Netflix dataset using data analysis and visualization 
 - **Matplotlib / Seaborn** – data visualization
 - **Scikit-learn** – clustering (KMeans)
 - **Jupyter Notebook** – interactive development environment
-- 
+
 ---
 
 ## 🚀 How to Run the Project
