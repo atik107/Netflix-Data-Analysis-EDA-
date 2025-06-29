@@ -55,20 +55,11 @@ This project explores the Netflix dataset using data analysis and visualization 
 - **Matplotlib / Seaborn** – data visualization
 - **Scikit-learn** – clustering (KMeans)
 - **Jupyter Notebook** – interactive development environment
-
----
-
-## 📊 Sample Plots
-
-> ![Type Distribution](assets/type_distribution.png)
-> ![Genre Trends](assets/genre_trend.png)
-> ![Top Collaborations](assets/top_collab.png)
-
+- 
 ---
 
 ## 🚀 How to Run the Project
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/netflix-data-analysis.git
-   cd netflix-data-analysis
+   git clone https://github.com/atik107/Netflix-Data-Analysis-EDA-.git
